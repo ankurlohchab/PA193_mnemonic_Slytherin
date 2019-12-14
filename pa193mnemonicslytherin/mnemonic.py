@@ -30,8 +30,8 @@ import logging
 from contextlib import closing
 from copy import deepcopy
 from hashlib import sha256, sha512
-from typing import Dict, List, Tuple, BinaryIO
-from typing import Optional
+from typing import List, Tuple, BinaryIO
+#from typing import Optional
 from unicodedata import normalize
 
 import pkg_resources
